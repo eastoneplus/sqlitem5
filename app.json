@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "sqlitem5",
+    "slug": "sqlitem5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.eastoneplus.sqlitem4",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-fore.png",
+        "backgroundColor": "#FEC34C"
+      },
+      "package": "com.eastoneplus.sqlitem4",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a25e0d7a-3a19-47bc-ac07-08cd3872d992"
+      }
+    },
+    "owner": "eastoneplus"
+  }
+}
