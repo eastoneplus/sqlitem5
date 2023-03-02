@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "com.eastoneplus.sqlitem5",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "cover",
@@ -14,7 +15,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.eastoneplus.sqlitem4",
+      "bundleIdentifier": "com.eastoneplus.sqlitem5",
       "buildNumber": "1.0.0"
     },
     "android": {
@@ -22,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-fore.png",
         "backgroundColor": "#FEC34C"
       },
-      "package": "com.eastoneplus.sqlitem4",
+      "package": "com.eastoneplus.sqlitem5",
       "versionCode": 1,
       "permissions": []
     },
